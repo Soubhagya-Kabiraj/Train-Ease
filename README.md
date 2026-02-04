@@ -139,29 +139,41 @@ Ensure you have the following installed:
 
 ## 📸 Screenshots
 
-| Module | Description |
-|---------|-------------|
-| 🏠 Landing Page | Entry point |
-| 🖥 Admin Dashboard | Manage trains and view bookings |
-| 👤 User Dashboard | Manage personal bookings and view ticket history |
-| 📋 User Booking Page | Search and book tickets |
-| 🧾 Ticket Details | View and print ticket info |
-| 📚 Ticket History | Track previous bookings |
-| ℹ️ About Us | About team |
+## 📌 System Modules
 
-![Landing Page](https://github.com/user-attachments/assets/c6763195-76e4-4561-9392-27a44f31e7d6)
+| Module Name | Description |
+|------------|------------|
+| 🏠 Landing Page Module | Entry point of the application for all users |
+| 🧑‍💼 User Registration Module | Allows new users to create an account |
+| 🧭 User Dashboard Module | Central hub for accessing user functionalities |
+| 👤 User Menu Module | Handles login, authentication, and profile management |
+| 📋 Ticket Booking Module | Enables users to search for trains and book tickets |
+| 🧾 Ticket Details Module | Displays complete booking and travel information |
+| 🖨 Ticket Printing Module | Allows users to download or print booked tickets |
+| 📚 Booking History Module | Stores and displays previous booking records |
+| 🖥 Admin Dashboard Module | Manages trains, users, and monitors bookings |
+| ℹ️ About Us Module | Provides information about the project and development team |
 
-![Admin Dashboard](https://github.com/user-attachments/assets/cc6a711c-229b-40d6-bd86-e00c41003928)
 
-![User Dashboard](https://github.com/user-attachments/assets/a7d11509-9b90-49ae-9802-025a87880c94)
+<img width="1907" height="913" alt="Screenshot 2026-02-04 202253" src="https://github.com/user-attachments/assets/ffca4301-e4ba-4b41-84f6-af66dd35f616" />
 
-![Booking Page](https://github.com/user-attachments/assets/dabfcdd3-33f9-493c-aae3-27e31ae5c8aa)
+<img width="1888" height="918" alt="Screenshot 2026-02-04 203111" src="https://github.com/user-attachments/assets/5a56b2ee-7224-427f-a151-47c544206aa6" />
 
-![Ticket Details](https://github.com/user-attachments/assets/355d4c52-6a41-4667-a48f-7b17055c2d99)
+<img width="1891" height="916" alt="Screenshot 2026-02-04 202557" src="https://github.com/user-attachments/assets/9aa70279-51ac-48bf-9b04-b14506b531ad" />
 
-![Ticket History](https://github.com/user-attachments/assets/ccfdc924-6133-457d-939d-63141a513df0)
+<img width="1904" height="910" alt="Screenshot 2026-02-04 202629" src="https://github.com/user-attachments/assets/52bef12d-3025-41ed-95e8-03e11d4566dc" />
 
-![About Us](https://github.com/user-attachments/assets/a27d73e5-1c43-419f-bfea-e982c0dc4cc3)
+<img width="1903" height="912" alt="Screenshot 2026-02-04 202711" src="https://github.com/user-attachments/assets/b5ae055d-af94-4db5-a98e-84b519798ad9" />
+
+<img width="1883" height="922" alt="Screenshot 2026-02-04 202736" src="https://github.com/user-attachments/assets/b9f048ef-22a4-4460-b138-8aa8e09c1577" />
+
+<img width="1769" height="824" alt="Screenshot 2026-02-04 202807" src="https://github.com/user-attachments/assets/5fc6841a-a824-4e5c-92ce-33e00e2e2cfb" />
+
+<img width="1882" height="913" alt="image" src="https://github.com/user-attachments/assets/706f7429-ebfc-4151-84d1-58f6b35847cd" />
+
+<img width="1905" height="919" alt="Screenshot 2026-02-04 202522" src="https://github.com/user-attachments/assets/d31d12ca-3017-476c-a1a2-c01d0a527258" />
+
+<img width="1904" height="917" alt="Screenshot 2026-02-03 212759" src="https://github.com/user-attachments/assets/17472650-b8ae-478a-bc55-2c09e8773bff" />
 
 ---
 
